@@ -1,0 +1,10 @@
+
+
+
+Steps:
+1. Terminal:  npm init          // fo pacakage.json
+              npm i discord.js dotenv  // to connect with server.
+              npm i openai.
+
+3. create .env file.
+. CREATE index.js file.
